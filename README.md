@@ -29,6 +29,7 @@ $ cd nginx-proxy-replace-html
 ## Usage
 
 Replace example.com in start.sh, stop.sh and nginx.conf with the domain you want
+
 Update the rewrite rules in nginx.conf
 
 ```
